@@ -1,0 +1,6 @@
+torch==1.12.1+cu113
+transformers==4.8.1
+timm
+ruamel.yaml
+datasets
+opencv-python
